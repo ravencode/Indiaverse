@@ -1,4 +1,4 @@
-import Sidebar from "../components/Sidebar"
+// import Sidebar from "../components/Sidebar"
 import Head from 'next/head'
 import Login from '../components/Login'
 import { useMoralis } from "react-moralis"
