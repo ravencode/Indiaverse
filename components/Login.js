@@ -9,6 +9,7 @@ function Login() {
         </h1>
         <div className="flex flex-col absolute z-50 h-4/6 w-full items-center justify-center
         space-y-4">
+            
 
             {/* Logo */}
             <Image 
